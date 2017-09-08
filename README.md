@@ -1,8 +1,7 @@
 QRCode
 ======
 
-A simple library for generating [QR codes](https://en.wikipedia.org/wiki/QR_code) in C,
-optimized for processing and memory constrained systems.
+A simple library for generating [QR codes](https://en.wikipedia.org/wiki/QR_code) in C, ported to Partice Core/Photon/Electron by Tim Siggins.
 
 **Features:**
 
@@ -15,10 +14,7 @@ optimized for processing and memory constrained systems.
 Installing
 ----------
 
-To install this library, download and save it to your Arduino libraries directory.
-
-Rename the directory to QRCode (if downloaded from GitHub, the filename may be
-qrcode-master; library names may not contain the hyphen, so it must be renamed)
+Search for qrcode in the particle IDE to include this in your project.
 
 
 API
